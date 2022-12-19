@@ -12,7 +12,7 @@ in the the previous topic.
 | ----------- | ---------- | -------------- | ------------------- | ------------ | ----------- |
 | Boilermaker | **Mandatory** | - | [🖼️ Exercise: Boilermaker][workshop_boilermaker] | [👾 Boilermaker][solution_boilermaker] | [📺- Security][security-playlist] [📺- Testing][Intro to testing playlist] [📺- Deployment][heroku-video] |
 | Async Week Project | **Mandatory** | - | (see details below) | - | - |
-| Heroku Deployment| **Mandatory** | (lecture in workshop) | [🖼️ Exercise: Deployment][workshop_deployment]   | - | - |
+| Heroku Deployment| Optional | (lecture in workshop) | [🖼️ Exercise: Deployment][workshop_deployment]   | - | - |
 | React Hooks | Optional | [📺][hooks-lecture] | [🖼️ Hooks Documentation][hooks-docs]<br/>[🖼️ React Checkpoint (start over with hooks)][react-cp] | - | - |
 | Security Readings | Optional | - | (see links below) | - | - |
 
